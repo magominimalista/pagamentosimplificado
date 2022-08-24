@@ -89,7 +89,7 @@ POST transations
 #### Documentos de apoio aos desenvolvedores
 
 Em docs constam os seguintes documentos:
-- LIBRAIRES [ Todas as bibliotecas do nosso projeto com descrição e link ]
+- [LIBRAIRES](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/LIBRARIES.md) [ Todas as bibliotecas do nosso projeto com descrição e link ]
 - PLUGINS [ Todos os plugins usados em nosso workflow git e agilidade de código ]
 - RULES [ Regras de desenvolvimento: git, idioma, classes e métodos ]
 - SCOPE [ Escopo do projeto explicado ]
