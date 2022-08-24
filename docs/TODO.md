@@ -1,3 +1,5 @@
+[⬅️ Voltar](https://github.com/magominimalista/pagamentosimplificado/blob/master/README.md)
+
 ## Lista de tarefas do projeto
 
 Check list das tarefas executadas no projeto. As novas tarefas são sempre definidas de acordo com o andamento do projeto.
