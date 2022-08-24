@@ -1,0 +1,28 @@
+## Escopo do projeto
+
+- app [front-end do projeto]
+- assets [css, js, images]
+- bin [shell do doctrine]
+- cache [cahe da nossa aplicação, views (geradas pelo twig) e outras treads]
+- docs [documentação do projeto]
+- src [back-end código fonte]
+    - Entity [classes que formam o banco]
+    - Helper [classes auxiliadoras, ex.: configuração do banco]
+    - Migrations [controle de versão do banco]
+- testes [pasta de testes]
+    - Unit
+    - Integration
+- vendor [bibliotecas do projeto]
+- webgrind [biblioteca para análise de profiler]
+- .editorconfig [configurações do editor]
+- .env [variáveis globais, banco, chaves]
+- .gitattributes
+- .gitignore
+- cli-config.php [configurações do doctrine com o as migrations]
+- composer.json
+- composer.lock
+- db.sqlite
+- index.php
+- migrations.php
+- phpunit.xml [configuração da suite de testes com o phpunit]
+- README.md

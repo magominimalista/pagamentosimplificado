@@ -1,0 +1,23 @@
+/vendor
+/webgrind
+/node_modules
+/cache
+composer.lock
+package-lock.json
+.php-files.json
+.phpunit.result.cache
+testdox.txt
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+#Env
+.env.local
