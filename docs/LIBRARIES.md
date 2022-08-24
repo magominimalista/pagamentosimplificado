@@ -1,3 +1,5 @@
+[⬅️ Voltar](https://github.com/magominimalista/pagamentosimplificado/blob/master/README.md)
+
 ## Libraries - Bibliotecas PHP do projeto
 
 <details><summary>Developer</summary>
