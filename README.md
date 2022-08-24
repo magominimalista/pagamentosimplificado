@@ -1,3 +1,12 @@
+- 🍔 Menu
+    - 📚 [LIBRAIRES](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/LIBRARIES.md)
+    - 🔌 [PLUGINS](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/PLUGINS.md)
+    - 📜 [RULES](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/RULES.md)
+    - 📖 [SCOPE](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/SCOPE.md)
+    - ✅ [TODO](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/TODO.md)
+    - ♾️ [WORKFLOW](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/WORKFLOW.md)
+    - 🐛 [XDEBUG](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/XDEBUG.md)
+
 ## Sistema de pagamento simplificado
 
 #### Objetivos do projeto
