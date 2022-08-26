@@ -5,7 +5,6 @@
 - app [front-end do projeto]
 - assets [css, js, images]
 - bin [shell do doctrine]
-- cache [cahe da nossa aplicação, views (geradas pelo twig) e outras treads]
 - docs [documentação do projeto]
 - src [back-end código fonte]
     - Entity [classes que formam o banco]
@@ -15,7 +14,6 @@
     - Unit
     - Integration
 - vendor [bibliotecas do projeto]
-- webgrind [biblioteca para análise de profiler]
 - .editorconfig [configurações do editor]
 - .env [variáveis globais, banco, chaves]
 - .gitattributes
