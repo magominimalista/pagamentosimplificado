@@ -1,3 +1,12 @@
+- 🍔 Menu
+    - 📚 [LIBRAIRES](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/LIBRARIES.md)
+    - 🔌 [PLUGINS](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/PLUGINS.md)
+    - 📜 [RULES](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/RULES.md)
+    - 📖 [SCOPE](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/SCOPE.md)
+    - ✅ [TODO](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/TODO.md)
+    - ♾️ [WORKFLOW](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/WORKFLOW.md)
+    - 🐛 [XDEBUG](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/XDEBUG.md)
+
 ## Sistema de pagamento simplificado
 
 #### Objetivos do projeto
@@ -88,12 +97,12 @@ POST transations
 #### Documentos de apoio aos desenvolvedores
 
 Em docs constam os seguintes documentos:
-- LIBRAIRES [ Todas as bibliotecas do nosso projeto com descrição e link ]
-- PLUGINS [ Todos os plugins usados em nosso workflow git e agilidade de código ]
-- RULES [ Regras de desenvolvimento: git, idioma, classes e métodos ]
-- SCOPE [ Escopo do projeto explicado ]
-- TODO [ Lista de tarefas ]
-- WORKFLOW [ Comando utilizados no projeto ]
-- XDEBUG [ Configurações do xDebug]
+- [LIBRAIRES](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/LIBRARIES.md) [ Todas as bibliotecas do nosso projeto com descrição e link ]
+- [PLUGINS](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/PLUGINS.md) [ Todos os plugins usados em nosso workflow git e agilidade de código ]
+- [RULES](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/RULES.md) [ Regras de desenvolvimento: git, idioma, classes e métodos ]
+- [SCOPE](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/SCOPE.md) [ Escopo do projeto explicado ]
+- [TODO](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/TODO.md) [ Lista de tarefas ]
+- [WORKFLOW](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/WORKFLOW.md) [ Comando utilizados no projeto ]
+- [XDEBUG](https://github.com/magominimalista/pagamentosimplificado/blob/master/docs/XDEBUG.md) [ Configurações do xDebug]
 
 > * Outros documentos podem ser adicionados durante o desenvolvimento; O objetivo é fazer um registro da arquitetura utilizada no projeto, os padrões de projetos utilizados no desenvolvimento, o fluxograma do git no projeto;

@@ -1,3 +1,5 @@
+[⬅️ Voltar](https://github.com/magominimalista/pagamentosimplificado/blob/master/README.md)
+
 ## Regras e convenções
 
 #### Idioma

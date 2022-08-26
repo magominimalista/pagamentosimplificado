@@ -1,3 +1,5 @@
+[⬅️ Voltar](https://github.com/magominimalista/pagamentosimplificado/blob/master/README.md)
+
 ## Plugins usados no desenvolvimento
 
 Um coletânia dos principais plugins utilizados no projeto;

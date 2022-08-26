@@ -1,3 +1,5 @@
+[⬅️ Voltar](https://github.com/magominimalista/pagamentosimplificado/blob/master/README.md)
+
 ## Libraries - Bibliotecas PHP do projeto
 
 <details><summary>Developer</summary>
@@ -12,14 +14,8 @@
     - (https://github.com/mikecao/flight)
 </details>
 
-<details><summary>Template Engine</summary>
-- twig/twig: Template Engine da Symfony para renderizar o nosso php dentro do HTML;
-    - (https://twig.symfony.com/)
-</details>
-
 <details><summary>Helpers</summary>
 - Rest/Soap
-    - psr/http-message, psr/http-server-handler;
     - guzzlehttp/guzzle: Client HTTP Server;
         - (https://docs.guzzlephp.org/en/stable/)
 
@@ -27,21 +23,17 @@
     - nette/forms: Biblioteca para lidar com formulários;
         - (https://doc.nette.org/en/forms)
 
-- Validação
-    - respect/validation: Biblioteca para lidar com as validações de dados;
-        - (https://respect-validation.readthedocs.io/en/latest/)
-
 - Logs
-    - monolog/monolog: Biblioteca para gerar logs da aplicação ;
+    - monolog/monolog: Biblioteca para gerar logs da aplicação;
         - (https://github.com/Seldaek/monolog)
-
-- GPDPL
-    - corviz/br-gpdpl: Biblioteca para lidar com as diretrizes de proteção aos dados;
-        - (https://github.com/Corviz/br-gpdpl-php)
 
 - UUID
     - ramsey/uuid: Biblioteca para gerar o ID;
         - (https://github.com/ramsey/uuid)
+
+- JWT
+    - lcobucci/jwt: Biblioteca para gerar, parsear e validar JWT token;
+        - (https://lcobucci-jwt.readthedocs.io/en/latest/)
 </details>
 
 <details><summary>Gateways</summary>
