@@ -6,14 +6,19 @@
 
 - Comandos automatizados pelo plugin: git init, git add ., git commit -m "menssagem", git push, git pull, git merge, git checkout -b 'branch', git branch, git diff, git merge 'minha/branch'.
 
-Cria a tag:
+Fluxograma das Tag:
 ```
-git tag -a v1.4 -m "my version 1.4
+git tag -a v1.4 -m "my version 1.4"
+git tag
+git push origin --tags
 ```
 
-Checa as tags criadas:
+Fluxograma do histórico limpo
 ```
-git tag
+git log --oneline
+git rebase -i 1e4308b
+git commit --amend
+git rebase --continue
 ```
 
 Salve as alteraçõs sem commits para deixar nosso histórico limpo.

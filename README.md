@@ -78,6 +78,7 @@
 - EXEMPLO DE SAÍDA DA API
 
 POST transations
+
 ```
 {
     "value" : 100.00,
@@ -85,7 +86,7 @@ POST transations
     "payee" : 15
 }
 
-```JSON
+```
 
 - PRIORIDADES
     - API

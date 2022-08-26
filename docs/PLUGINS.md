@@ -12,9 +12,6 @@ Todos os plugins citados estão categorizados.
 - GIT WORKFLOW
     - Git Graph
     - New Relic CodeStream
-- LINGUAGEM
-    - Brasilian Portuguese - Code Spell Checker
-    - Code Spell Checker
 - INTELIGÊNCIA ARTIFICIAL
     - IntelliCode
     - PHP Intelephense
